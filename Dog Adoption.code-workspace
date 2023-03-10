@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../internship"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Dog Adoption"
+	}
+}
